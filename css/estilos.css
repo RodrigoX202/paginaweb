@@ -1,0 +1,33 @@
+body {background-color: #5DADE2;}
+.color1 {color: #641E16}
+#titulo {color: #C0392B; text-align: center; text-decoration: underline;font-size: 10;}
+
+ .color1 {font-size: large; text-align: center;}
+.color2 {color: #641E16; font-size: large;}
+
+.subrayar {text-decoration: underline;font-size: large; text-align: center; color: #641E16}
+
+.grande {height: 300px; width: 350px}
+
+.iconos {height: 50px; width: 50px;}
+
+.iconow {position: fixed; top: 75%; height: 50px; width: 50px;}
+
+.fondoimagen {background-image: url(/Users/Regozan/Desktop/Programacion%20-%20Rodrigo/imagenes/cocina.JPG); background-repeat: no-repeat;
+   background-size: 100% 100%;}
+
+
+header {background-color: yellow}
+
+nav {background-color: white}
+
+section {background-color: #4F62B8;
+float: right; width: 68%; overflow: scroll;
+margin: 1%; border: 1px solid black; box-sizing: border-box;}
+
+aside {background-color: #4F62B8;
+float: right; width: 28%; overflow: scroll;
+height: 862px; margin: 1%; border: 1px solid black; box-sizing: border-box;}
+
+footer {background-color:#A92831;
+clear: both;}
